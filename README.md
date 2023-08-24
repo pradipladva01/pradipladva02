@@ -19,20 +19,16 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pradipladva02.pradipladva02&"  />
+  <img src="https://profile-counter.glitch.me/pradipladva02/count.svg?"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 Welcome to my Github profile!</h1>
 
 ###
 
-<h3 align="left">👩‍💻 About Me  <br><br>𝐏𝐫𝐚𝐝𝐢𝐩 𝐋𝐚𝐝𝐯𝐚<br>Front End Developer | HTML | CSS | JavaScript | jQuery | Bootstrap | Git<br><br>👋 Welcome to my LinkedIn profile! I'm Pradip Ladva, a passionate front end developer with 2 years of hands-on experience. I thrive on crafting captivating user interfaces and delivering seamless web experiences.<br><br>𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:<br>With a proficient understanding of web markup, including HTML, CSS, and JavaScript, I am well-equipped to transform design concepts into pixel-perfect and responsive websites. My experience extends to leveraging CSS3 and CSS pre-processors like LESS and SASS to create engaging and dynamic user interfaces.<br><br>🌐 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀:<br>I possess a strong command of client-side scripting and JavaScript frameworks such as jQuery and Bootstrap. These tools allow me to enhance user interactions and deliver modern, interactive web applications.<br><br>🔧 𝗖𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻:<br>Proficient in the use of code versioning tools such as Git, I am adept at collaborating effectively with development teams and ensuring seamless code management throughout the development lifecycle.<br><br>🎨 𝗗𝗲𝘀𝗶𝗴𝗻 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻:<br>I possess a basic proficiency in using Photoshop/XD for image editing and compression. This enables me to collaborate effectively with designers and bring their creative visions to life while ensuring optimal performance.<br><br>Feel free to reach out to me via LinkedIn or at 𝗽𝗿𝗮𝗱𝗶𝗽𝗹𝗮𝗱𝘃𝗮𝟬𝟮@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺. Let's build remarkable web experiences together!</h3>
-
-###
-
-<p align="left"></p>
+<h3 align="left">👩‍💻 About Me  <br><br>𝐏𝐫𝐚𝐝𝐢𝐩 𝐋𝐚𝐝𝐯𝐚<br>Front End Developer | HTML | CSS | JavaScript | jQuery | Bootstrap | Git<br><br>I'm Pradip Ladva, a passionate front end developer with 2 years of hands-on experience. I thrive on crafting captivating user interfaces and delivering seamless web experiences.<br><br>𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:<br>With a proficient understanding of web markup, including HTML, CSS, and JavaScript, I am well-equipped to transform design concepts into pixel-perfect and responsive websites. My experience extends to leveraging CSS3 and CSS pre-processors like LESS and SASS to create engaging and dynamic user interfaces.<br><br>🌐 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀:<br>I possess a strong command of client-side scripting and JavaScript frameworks such as jQuery and Bootstrap. These tools allow me to enhance user interactions and deliver modern, interactive web applications.<br><br>🔧 𝗖𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻:<br>Proficient in the use of code versioning tools such as Git, I am adept at collaborating effectively with development teams and ensuring seamless code management throughout the development lifecycle.<br><br>🎨 𝗗𝗲𝘀𝗶𝗴𝗻 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻:<br>I possess a basic proficiency in using Photoshop/XD for image editing and compression. This enables me to collaborate effectively with designers and bring their creative visions to life while ensuring optimal performance.<br><br>Feel free to reach out to me via LinkedIn or at 𝗽𝗿𝗮𝗱𝗶𝗽𝗹𝗮𝗱𝘃𝗮𝟬𝟮@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺. Let's build remarkable web experiences together!</h3>
 
 ###
 
@@ -69,7 +65,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pradipladva02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradipladva02&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipladva02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=pradipladva02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
